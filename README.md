@@ -13,6 +13,7 @@ location, sending you powerups to aid your escape:
 - Grey Star - Invisibility from all enemies
 
 We made this 2D top-down game as the final project of our grade 12 computer science class.
+It was made in an old version of unity (2018.3.7f) so it won't be able to run on newer versions.
 It's a little rough around the edges, but we never really got all the bugs fixed so there
 might be things wrong here and there. Overall we were successful in completing most necessary 
 features. All assets used were listed as free to use.
